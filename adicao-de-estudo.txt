@@ -1,0 +1,1 @@
+Essa é uma adição de estudo para relembrar os códigos utilizados no git.
